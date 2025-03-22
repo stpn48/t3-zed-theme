@@ -1,3 +1,4 @@
+submodule = "extensions/t3-theme"
 id = "t3-theme"
 name = "T3 Theme"
 version = "0.0.1"
