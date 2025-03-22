@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 2
 authors = ["stpn48 stepanbroz789@gmail.com"]
 description = "Unofficial t3 theme based on T3 Chat for Zed editor."
-repository = "https://github.com/your-name/my-zed-extension"
+repository = "https://github.com/stpn48/t3-zed-theme"
