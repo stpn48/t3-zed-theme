@@ -1,6 +1,6 @@
 id = "t3-theme"
 name = "T3 Theme"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["stpn48 <stepanbroz789@gmail.com>"]
 description = "Unofficial t3 theme based on T3 Chat for Zed editor."
