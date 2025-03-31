@@ -1,7 +1,3 @@
-# T3 Theme for Zed editor
-
-Unofficial t3-theme for zed editor based on T3 Chat.
-
 <img width="1582" alt="t3-theme" src="https://github.com/user-attachments/assets/e2f01801-2ad2-4db5-bb28-3e5a8ef6958b" />
 
 # ⚠️ Disclaimer ⚠️
