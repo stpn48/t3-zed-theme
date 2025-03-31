@@ -1,4 +1,4 @@
-# t3-zed-theme
+# T3 Theme for Zed editor
 
 Unofficial t3-theme for zed editor based on T3 Chat.
 
