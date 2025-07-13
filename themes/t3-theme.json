@@ -67,7 +67,7 @@
         "editor.document_highlight.read_background": "#3A3A3A50",
         "editor.document_highlight.write_background": "#3A3A3A50",
         "terminal.background": "#1A161E",
-        "terminal.foreground": "#1A161E",
+        "terminal.foreground": "#D4D4D4",
         "terminal.bright_foreground": "#FFFFFF",
         "terminal.dim_foreground": "#808080",
         "terminal.ansi.black": "#1E1E1E",
